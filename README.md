@@ -14,6 +14,10 @@ Before running the project, ensure you have the following installed:
 - Python
 - SQLite
 - pandas library (`pip install pandas`)
-- requests library (`pip install requests`)
+- requests library (`pip install requests`)*Clone the Repository**
 
+## Clone the repository
+```bash
+git clone https://github.com/NikRapa/ForzaLabAssessment-.git
+cd pokemon-data-analysis
 
